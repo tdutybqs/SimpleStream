@@ -1,0 +1,6 @@
+C:\Users\Евгений\source\repos\ConsoleSimpleStream\ConsoleSimpleStream\bin\Debug\ConsoleSimpleStream.exe
+C:\Users\Евгений\source\repos\ConsoleSimpleStream\ConsoleSimpleStream\bin\Debug\ConsoleSimpleStream.pdb
+C:\Users\Евгений\source\repos\ConsoleSimpleStream\ConsoleSimpleStream\obj\Debug\ConsoleSimpleStream.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ConsoleSimpleStream\ConsoleSimpleStream\obj\Debug\ConsoleSimpleStream.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ConsoleSimpleStream\ConsoleSimpleStream\obj\Debug\ConsoleSimpleStream.exe
+C:\Users\Евгений\source\repos\ConsoleSimpleStream\ConsoleSimpleStream\obj\Debug\ConsoleSimpleStream.pdb
